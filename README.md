@@ -1,2 +1,2 @@
 # scalable-fact-checking
-The code will be available soon
+The code includes tweets preprocessing, embedding, clustering and summarization. Extractive summarization (DG and MCI are not included yet, will upload soon)
